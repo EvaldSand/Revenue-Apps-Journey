@@ -14,6 +14,9 @@
 - Phase 5: Portfolio (Weeks 55-60)
 
 ## Week 1 Progress
+- [x] GitHub repo created
+- [x] Token authentication fixed  
+- [x] Terminal comfortable (pwd, ls, cd, git status)
 - [ ] VS Code setup
 - [ ] Terminal comfort
 - [ ] Git workflow
