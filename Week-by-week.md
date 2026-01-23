@@ -56,11 +56,34 @@
 - Substack account setup
 
 ### Day 2 (Fri Jan 23): ✅ COMPLETE
-✅ JavaScript objects & nested data
 
-✅ Object methods & destructuring
+**Hours**: 3/3
 
-✅ Mini-project: Project tracker with classes
+#### What I Learned
+- ✅ JavaScript objects (key-value pairs, nested objects)
+- ✅ Object methods & `this` keyword
+- ✅ Object destructuring (`const { name } = obj`)
+- ✅ Spread operator (`{...obj}`)
+- ✅ Classes & constructors (ES6 syntax)
+- ✅ Mini-project: Project tracker with lifecycle simulation
 
-✅ 6/15 hours complete (40%)
-undefined
+#### Files Created
+- `objects.js` - Object fundamentals & revenue tracker
+- `project-tracker.js` - Class-based project management system
+
+**Cumulative Hours**: 6/15 (40% Week 2 complete)
+
+---
+
+### Week 2 Progress Summary (So Far)
+
+**Days Complete**: 2/5  
+**Hours**: 6/15 (40%)
+
+#### Skills Gained
+| Day | Topic | Files | Hours |
+|-----|-------|-------|-------|
+| Day 1 | Variables, functions, loops, arrays | 3 files | 3hrs |
+| Day 2 | Objects, classes, methods | 2 files | 3hrs |
+
+**Next**: Day 3 - DOM manipulation + API fetch basics
