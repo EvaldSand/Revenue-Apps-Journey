@@ -54,3 +54,13 @@
 - JavaScript fundamentals (variables, functions, loops)
 - 3 mini-projects committed
 - Substack account setup
+
+### Day 2 (Fri Jan 23): ✅ COMPLETE
+✅ JavaScript objects & nested data
+
+✅ Object methods & destructuring
+
+✅ Mini-project: Project tracker with classes
+
+✅ 6/15 hours complete (40%)
+undefined
